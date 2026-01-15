@@ -80,8 +80,8 @@
 
 <p align="center">
   <img
-    src="https://github.com/Sanju562586/Sanju562586/raw/output/github-contribution-grid-snake.svg"
-    alt="snake animation"
+    src="https://raw.githubusercontent.com/Sanju562586/Sanju562586/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
   />
 </p>
 
