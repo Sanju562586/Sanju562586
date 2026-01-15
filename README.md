@@ -1,18 +1,16 @@
 <!-- ========================= -->
-<!--  GitHub Profile README   -->
+<!--   GitHub Profile README  -->
 <!-- ========================= -->
 
-<h1 align="center">
-  Hi 👋, I'm Sanjay Kumar Dupati
-</h1>
+<h1 align="center">Hi 👋, I'm Sanjay Kumar Dupati</h1>
 
 <h3 align="center">
   B.Tech CSE Student | Web Developer | Problem Solver
 </h3>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Frontend+%26+Backend+Developer;Open+Source+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45"
+  <img
+    src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Frontend+%26+Backend+Developer;Open+Source+Enthusiast;Always+Learning+New+Things&center=true&width=520&height=45"
     alt="Typing SVG"
   />
 </p>
@@ -23,9 +21,9 @@
 
 - 🎓 B.Tech in **Computer Science & Engineering**
 - 💻 Passionate about **Web Development, DSA, and Databases**
-- 🌱 Currently improving my skills in **React, Node.js, and System Design**
-- 🔍 Interested in **real-world problem solving & open-source**
-- ⚡ I believe in *learning by building*
+- 🌱 Currently learning **React, Node.js, and System Design**
+- 🔍 Interested in **real-world problem solving & open source**
+- ⚡ Believe in *learning by building*
 
 ---
 
@@ -49,7 +47,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
-### 🧰 Tools & Platforms
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
@@ -59,15 +57,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanju562586&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanju562586&theme=tokyonight" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sanju562586&show_icons=true&theme=dark&hide_border=true"
+    width="48%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Sanju562586&theme=dark&hide_border=true"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanju562586&layout=compact&theme=tokyonight"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanju562586&layout=compact&theme=dark&hide_border=true"
+    width="40%"
+  />
 </p>
 
 ---
@@ -75,34 +79,21 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Sanju562586/Sanju562586/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanju562586&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanju562586&layout=compact&theme=tokyonight"/>
+  <img
+    src="https://github.com/Sanju562586/Sanju562586/raw/output/github-contribution-grid-snake.svg"
+    alt="snake animation"
+  />
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 🔥 Focus Areas
 
-<p align="center">
-  <img src="https://github.com/Sanju562586/Sanju562586/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🔥 What I Focus On
-
-- Data Structures & Algorithms
-- Frontend Development (React)
-- Backend APIs (Node.js, Express)
-- Databases & DBMS concepts
-- Clean, readable, maintainable code
+- ✔ Data Structures & Algorithms
+- ✔ Frontend Development (React)
+- ✔ Backend APIs (Node.js, Express)
+- ✔ DBMS & Databases
+- ✔ Clean & maintainable code
 
 ---
 
@@ -123,7 +114,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=Sanju562586&label=Profile%20Views&color=0e75b6&style=flat"
+  />
 </p>
 
 <p align="center">
