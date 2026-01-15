@@ -59,12 +59,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanju562686&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanju562686&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanju562586&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanju562586&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanju562586&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -72,7 +75,23 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/Sanju562686/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Sanju562586/Sanju562586/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanju562586&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanju562586&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Sanju562586/Sanju562586/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
