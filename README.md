@@ -220,15 +220,7 @@ A mobile-first **continuous trust verification system** replacing one-time auth.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanju562586&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f97316&hide_border=true&area=true&area_color=1e3a5f" width="92%"/>
 </div>
 
----
 
-## 🐍 Commit Trail
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sanju562586/Sanju562586/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
-</div>
-
----
 
 <div align="center">
 
