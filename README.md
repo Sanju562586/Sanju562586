@@ -19,14 +19,14 @@
 ## ❯_ whoami
 
 ```yaml
-name     : Sanjay Kumar Dupati
-location : Hyderabad, India
-degree   : B.E. Computer Science & Engineering @ CBIT  [CGPA: 8.74]
-focus    : AI/ML · RAG Pipelines · Big Data · Full-Stack · System Design
-building : Fraud Detection Systems · AI Assistants · Secure Mobile Apps
-stats    : 300+ DSA problems solved  |  Finalist in national hackathons
-mantra   : "Ship it. Learn from it. Build something harder."
-status   : Open to internships & research collaborations 🚀
+Name     : Sanjay Kumar Dupati
+Location : Hyderabad, India
+Degree   : B.E. Computer Science & Engineering @ CBIT  [CGPA: 8.74]
+Focus    : AI/ML · RAG Pipelines · Big Data · Full-Stack · System Design
+Building : Fraud Detection Systems · AI Assistants · Secure Mobile Apps
+Stats    : 300+ DSA problems solved  |  Finalist in national hackathons
+Mantra   : "Ship it. Learn from it. Build something harder."
+Status   : Open to internships & research collaborations 🚀
 ```
 
 <div align="center">
@@ -35,7 +35,7 @@ status   : Open to internships & research collaborations 🚀
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
 <tr>
@@ -103,13 +103,13 @@ status   : Open to internships & research collaborations 🚀
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 Intelligent Fraud Detection System
+### Intelligent Fraud Detection System
 > Apache Spark · Kafka · Hadoop · Scikit-learn · Streamlit
 
 Built a production-grade **ML-powered fraud detection** pipeline processing transactions at scale. Engineered features, handled class imbalance, and trained a **Random Forest classifier** on big data. Added real-time scoring via **Kafka + Spark Streaming** with a live Streamlit analytics dashboard.
@@ -121,7 +121,7 @@ Built a production-grade **ML-powered fraud detection** pipeline processing tran
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Resume Q&A Assistant
+### AI Resume Q&A Assistant
 > Python · LangChain · RAG · FAISS · LLMs
 
 End-to-end **RAG pipeline** that parses resumes, chunks documents, generates embeddings, and stores them in a **FAISS vector DB**. LLM integration enables natural language QA, resume summarization, skill extraction, and interview question generation.
@@ -135,7 +135,7 @@ End-to-end **RAG pipeline** that parses resumes, chunks documents, generates emb
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Agentic Secure Identity Assistant
+### Agentic Secure Identity Assistant
 > Android (Kotlin) · BLE · Google ML Kit · Go · Android Keystore
 
 A mobile-first **continuous trust verification system** replacing one-time auth. Proximity authentication via **BLE**, on-device liveness detection with **Google ML Kit**, and a **Go backend** for cryptographic verification. Features hardware-backed key storage and a **Duress Mode** for anomaly-triggered lockdowns.
@@ -147,7 +147,7 @@ A mobile-first **continuous trust verification system** replacing one-time auth.
 </td>
 <td width="50%" valign="top">
 
-### 📊 What I'm Building Next
+### What I'm Building Next
 ```
 ▸ MedQA Hallucination Detector
   RAGAS faithfulness scoring on LLM outputs
@@ -165,7 +165,7 @@ A mobile-first **continuous trust verification system** replacing one-time auth.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -198,7 +198,7 @@ A mobile-first **continuous trust verification system** replacing one-time auth.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -214,7 +214,7 @@ A mobile-first **continuous trust verification system** replacing one-time auth.
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanju562586&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f97316&hide_border=true&area=true&area_color=1e3a5f" width="92%"/>
