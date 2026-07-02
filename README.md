@@ -23,7 +23,7 @@ Name     : Sanjay Kumar Dupati
 Location : Hyderabad, India
 Degree   : B.E. Computer Science & Engineering @ CBIT  [CGPA: 8.74]
 Focus    : AI/ML · RAG Pipelines · Big Data · Full-Stack · System Design
-Building : Fraud Detection Systems · AI Assistants · Secure Mobile Apps
+Building : Fraud Detection Systems · AI Assistants · Scalable Backend Systems
 Stats    : 300+ DSA problems solved  |  Finalist in national hackathons
 Mantra   : "Ship it. Learn from it. Build something harder."
 Status   : Open to internships & research collaborations 🚀
