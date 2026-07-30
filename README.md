@@ -147,6 +147,7 @@ A mobile-first **continuous trust verification system** replacing one-time auth.
 </td>
 <td width="50%" valign="top">
 
+
 ### What I'm Building Next
 ```
 ▸ Identity Document Intelligent System
