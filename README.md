@@ -21,10 +21,10 @@
 ```yaml
 Name     : Sanjay Kumar Dupati
 Location : Hyderabad, India
-Degree   : B.E. Computer Science & Engineering @ CBIT  [CGPA: 8.74]
+Degree   : B.E. Computer Science & Engineering @ CBIT  [CGPA: 8.83]
 Focus    : AI/ML · RAG Pipelines · Big Data · Full-Stack · System Design
 Building : Fraud Detection Systems · AI Assistants · Scalable Backend Systems
-Stats    : 300+ DSA problems solved  |  Finalist in national hackathons
+Stats    : 500+ DSA problems solved  |  Finalist in national hackathons
 Mantra   : "Ship it. Learn from it. Build something harder."
 Status   : Open to internships & research collaborations 🚀
 ```
@@ -149,14 +149,17 @@ A mobile-first **continuous trust verification system** replacing one-time auth.
 
 ### What I'm Building Next
 ```
-▸ MedQA Hallucination Detector
-  RAGAS faithfulness scoring on LLM outputs
+▸ Identity Document Intelligent System
+  An end-to-end Identity Document Intelligence System for automated document understanding and verification.
+  A multimodal AI pipeline that extracts structured information from identity documents using Vision Language Models (PaliGemma + QLoRA).
+  A forgery detection module that identifies tampered or manipulated documents using visual features and Error Level Analysis (ELA).
+  A robust evaluation framework that benchmarks OCR, aligns model behavior with DPO, and measures performance under real-world image degradations.
 
-▸ Full-Stack DSA Visualizer
-  React + Node, interactive algorithm traces
-
-▸ System Design deep-dives
-  Documenting designs for distributed systems
+▸ Vision Language Document Q&A
+  An end-to-end Document Vision-Language Model (VLM) for intelligent Document Question Answering (DocVQA).
+  Developing a scalable training & inference pipeline using Hugging Face Datasets and Transformers with efficient data loading.
+  Exploring advanced multimodal reasoning by combining visual document understanding with natural language comprehension.
+  Optimizing the system for real-world deployment through faster inference, memory-efficient training, and robust evaluation.
 ```
 
 </td>
