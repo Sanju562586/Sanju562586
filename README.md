@@ -1,101 +1,108 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1a1a3e,80:0d2137,100:0a1628&height=220&section=header&text=Sanjay%20Kumar%20Dupati&fontSize=46&fontColor=e2e8f0&fontAlignY=40&desc=AI%20%7C%20ML%20%7C%20Full-Stack%20%7C%20Big%20Data&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:1a0a3e,70:0a1f4a,100:0a1a2e&height=240&section=header&text=Sanjay%20Kumar%20Dupati&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Building%20at%20the%20intersection%20of%20AI%20%E2%80%A2%20Big%20Data%20%E2%80%A2%20Secure%20Systems&descAlignY=62&descSize=15&animation=fadeIn&fontAlignX=50" width="100%"/>
+
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanju612/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanju562586)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sanjay612)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sanju126)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjaykumardupati6@gmail.com)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Sanju562586&label=Profile+Views&color=1a1a3e&style=flat-square)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanju612/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanju562586)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Sanjay612)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sanju126)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaykumardupati6@gmail.com)
 
 </div>
 
----
-
-## ❯_ whoami
-
-```yaml
-Name     : Sanjay Kumar Dupati
-Location : Hyderabad, India
-Degree   : B.E. Computer Science & Engineering @ CBIT  [CGPA: 8.83]
-Focus    : AI/ML · RAG Pipelines · Big Data · Full-Stack · System Design
-Building : Fraud Detection Systems · AI Assistants · Scalable Backend Systems
-Stats    : 500+ DSA problems solved  |  Finalist in national hackathons
-Mantra   : "Ship it. Learn from it. Build something harder."
-Status   : Open to internships & research collaborations 🚀
-```
+<br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Engineer+in+Making;RAG+Pipelines+%26+LLM+Applications;Big+Data+%7C+Spark+%7C+Kafka;300%2B+Problems+Solved+on+LeetCode;Hackathon+Finalist+%E2%80%94+Top+32+of+1500%2B+Teams&center=true&width=520&height=42&font=Fira+Code&pause=900&color=38bdf8&vCenter=true"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=7B68EE&center=true&vCenter=true&repeat=true&width=700&lines=RAG+Pipelines+%26+LLM+Applications;Big+Data+Engineering+%7C+Spark+%7C+Kafka;Secure+Mobile+AI+%7C+Zero+Trust+Systems;500%2B+DSA+Problems+%7C+Hackathon+Finalist"
+    alt="Typing SVG"
+  />
 </div>
+
+<br/>
 
 ---
 
-## Tech Stack
+## ❯ whoami
 
-<table>
+<br/>
+
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="55%">
 
-**Languages**
+### 👨‍💻 &nbsp;About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+```
+🎓  B.E. Computer Science @ CBIT, Hyderabad
+    CGPA: 8.83 / 10  ·  Graduating 2027
 
-**AI / ML**
+📍  Hyderabad, India
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+🧠  Currently building:
+    ↳ Multimodal AI pipelines (VLMs + QLoRA)
+    ↳ Real-time fraud detection at scale
+    ↳ Secure identity systems on mobile
 
-**NLP / LLMs**
+⚡  Daily drivers:
+    ↳ Python · PyTorch · LangChain
+    ↳ Apache Spark · Kafka
+    ↳ React · Node.js · Go
 
-![RAG](https://img.shields.io/badge/RAG_Pipelines-6366f1?style=for-the-badge&logo=openai&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-8b5cf6?style=for-the-badge&logo=openai&logoColor=white)
-![Semantic Search](https://img.shields.io/badge/Semantic_Search-0ea5e9?style=for-the-badge&logo=elasticsearch&logoColor=white)
+🏆  Highlights:
+    ↳ Hackathon Finalist — Top 32 / 1500+ teams
+    ↳ 500+ DSA problems across platforms
+    ↳ 59th State Rank — TGECET 2024
+
+💬  Ask me about:
+    RAG pipelines · Big Data · System Design
+    LLM applications · Secure mobile AI
+
+📬  Reach me:
+    sanjaykumardupati6@gmail.com
+```
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="45%">
 
-**Big Data & Streaming**
+### 🚀 &nbsp;What I'm focused on
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+<br/>
 
-**Web & Backend**
+![AI/ML](https://img.shields.io/badge/AI%20%26%20ML%20Engineering-7B68EE?style=flat-square&logoColor=white&labelColor=0d1117)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines%20%26%20LLMs-7B68EE?style=flat-square&logoColor=white&labelColor=0d1117)
+![Big Data](https://img.shields.io/badge/Big%20Data%20Engineering-00C6A2?style=flat-square&logoColor=white&labelColor=0d1117)
+![Streaming](https://img.shields.io/badge/Real--Time%20Streaming-00C6A2?style=flat-square&logoColor=white&labelColor=0d1117)
+![Secure Systems](https://img.shields.io/badge/Secure%20Mobile%20AI-F59E0B?style=flat-square&logoColor=white&labelColor=0d1117)
+![System Design](https://img.shields.io/badge/Distributed%20Systems-F59E0B?style=flat-square&logoColor=white&labelColor=0d1117)
+![VLMs](https://img.shields.io/badge/Vision%20Language%20Models-E879A4?style=flat-square&logoColor=white&labelColor=0d1117)
+![DSA](https://img.shields.io/badge/Competitive%20Programming-E879A4?style=flat-square&logoColor=white&labelColor=0d1117)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<br/>
 
-**Databases**
+### 📈 &nbsp;Currently learning
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<br/>
 
-**Tools & Platforms**
+```python
+areas = [
+    "PaliGemma + QLoRA fine-tuning",
+    "DPO alignment for document AI",
+    "Error Level Analysis (ELA)",
+    "Memory-efficient VLM inference",
+    "DocVQA evaluation frameworks",
+]
+```
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<br/>
+
+> 🟢 &nbsp;**Open to** internships & research collaborations
 
 </td>
 </tr>
@@ -103,140 +110,248 @@ Status   : Open to internships & research collaborations 🚀
 
 ---
 
-## Featured Projects
+## ❯ Numbers that matter
+
+<br/>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/CGPA-8.83%20%2F%2010-7B68EE?style=for-the-badge&labelColor=0d1117"/>
+<br/><sub><b>Academic Score</b></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/DSA-500%2B%20Solved-00C6A2?style=for-the-badge&labelColor=0d1117"/>
+<br/><sub><b>Problems Solved</b></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Hackathon-Top%2032%20%2F%201500%2B-F59E0B?style=for-the-badge&labelColor=0d1117"/>
+<br/><sub><b>National Finalist</b></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/State%20Rank-59th%20TGECET-E879A4?style=for-the-badge&labelColor=0d1117"/>
+<br/><sub><b>Entrance Exam</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## ❯ Featured Projects
+
+<br/>
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Intelligent Fraud Detection System
-> Apache Spark · Kafka · Hadoop · Scikit-learn · Streamlit
+### ⚡ Intelligent Fraud Detection System
 
-Built a production-grade **ML-powered fraud detection** pipeline processing transactions at scale. Engineered features, handled class imbalance, and trained a **Random Forest classifier** on big data. Added real-time scoring via **Kafka + Spark Streaming** with a live Streamlit analytics dashboard.
-
-`#BigData` `#MLOps` `#StreamProcessing` `#RealTime`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Sanju562586)
-
-</td>
-<td width="50%" valign="top">
-
-### AI Resume Q&A Assistant
-> Python · LangChain · RAG · FAISS · LLMs
-
-End-to-end **RAG pipeline** that parses resumes, chunks documents, generates embeddings, and stores them in a **FAISS vector DB**. LLM integration enables natural language QA, resume summarization, skill extraction, and interview question generation.
-
-`#RAG` `#LLM` `#NLP` `#SemanticSearch`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Sanju562586)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Agentic Secure Identity Assistant
-> Android (Kotlin) · BLE · Google ML Kit · Go · Android Keystore
-
-A mobile-first **continuous trust verification system** replacing one-time auth. Proximity authentication via **BLE**, on-device liveness detection with **Google ML Kit**, and a **Go backend** for cryptographic verification. Features hardware-backed key storage and a **Duress Mode** for anomaly-triggered lockdowns.
-
-`#Security` `#MobileAI` `#Biometrics` `#ZeroTrust`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Sanju562586)
-
-</td>
-<td width="50%" valign="top">
-
-
-### What I'm Building Next
-```
-▸ Identity Document Intelligent System
-  An end-to-end Identity Document Intelligence System for automated document understanding and verification.
-  A multimodal AI pipeline that extracts structured information from identity documents using Vision Language Models (PaliGemma + QLoRA).
-  A forgery detection module that identifies tampered or manipulated documents using visual features and Error Level Analysis (ELA).
-  A robust evaluation framework that benchmarks OCR, aligns model behavior with DPO, and measures performance under real-world image degradations.
-
-▸ Vision Language Document Q&A
-  An end-to-end Document Vision-Language Model (VLM) for intelligent Document Question Answering (DocVQA).
-  Developing a scalable training & inference pipeline using Hugging Face Datasets and Transformers with efficient data loading.
-  Exploring advanced multimodal reasoning by combining visual document understanding with natural language comprehension.
-  Optimizing the system for real-world deployment through faster inference, memory-efficient training, and robust evaluation.
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## Achievements
-
-<div align="center">
-
-| 🥇 | Achievement |
-|:---:|---|
-| 🏅 | **Finalist — Top 32 of 1500+ teams** in national-level hackathon |
-| 🌟 | **Special Mention Award** in 24-hour virtual hackathon (1200+ teams) |
-| 📊 | **59th State Rank** — TGECET 2024 |
-| 💻 | **300+ DSA problems** solved across LeetCode · CodeChef · Coding Ninjas |
-| 🎖️ | **Achiever Badges** — Arrays, Sorting, Hashmaps, Binary Search (Coding Ninjas) |
-| 🎓 | **Diploma CGPA: 9.64 / 10** — Government Polytechnic College, Nalgonda |
-
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud_Computing-NPTEL-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-&nbsp;
-![SQL](https://img.shields.io/badge/SQL_Intermediate-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
-&nbsp;
-![Postman](https://img.shields.io/badge/API_Fundamentals-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-&nbsp;
-![C++](https://img.shields.io/badge/C++_Programming-CBIT_CDC-004482?style=flat-square&logo=cplusplus&logoColor=white)
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sanju562586&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&rank_icon=github&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanju562586&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1&langs_count=7" height="165"/>
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sanju562586&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&dates=94a3b8" width="55%"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanju562586&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f97316&hide_border=true&area=true&area_color=1e3a5f" width="92%"/>
-</div>
-
-
-
-<div align="center">
-
-**Coding Profiles** &nbsp;|&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-Sanjay612-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sanjay612)
-[![CodeChef](https://img.shields.io/badge/CodeChef-sanju126-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sanju126)
-[![CodingNinjas](https://img.shields.io/badge/Coding_Ninjas-SanjayKumarD-DD6620?style=flat-square&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/SanjayKumarD)
+Production-grade ML pipeline processing transactions at scale. Real-time scoring via **Kafka + Spark Streaming**, class-imbalanced **Random Forest** classifier, and a live Streamlit analytics dashboard.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,40:0d2137,80:1a1a3e,100:0a0a0f&height=120&section=footer" width="100%"/>
+`#BigData` `#MLOps` `#StreamProcessing` `#RealTime`
 
-*"First, solve the problem. Then, write the code."*
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanju562586)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AI Resume Q&A Assistant
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<br/><br/>
+
+End-to-end **RAG pipeline** — document chunking, embeddings, FAISS vector store, and LLM integration for natural language QA, skill extraction, and interview question generation.
+
+<br/>
+
+`#RAG` `#LLM` `#NLP` `#SemanticSearch`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanju562586)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Agentic Secure Identity Assistant
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML%20Kit-4285F4?style=flat-square&logo=google&logoColor=white"/>
+
+<br/><br/>
+
+Continuous trust verification replacing one-time auth. **BLE proximity auth**, on-device liveness detection, **Go cryptography backend**, hardware-backed key storage, and Duress Mode for anomaly lockdowns.
+
+<br/>
+
+`#Security` `#MobileAI` `#Biometrics` `#ZeroTrust`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanju562586)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔭 Building Next
+
+**Identity Document Intelligence System**
+
+Multimodal AI pipeline — Vision Language Models (PaliGemma + QLoRA), forgery detection via Error Level Analysis, DPO-aligned benchmarking.
+
+<br/>
+
+**Vision-Language DocVQA**
+
+Scalable VLM training for Document QA — visual + language understanding, memory-efficient inference via HuggingFace Transformers.
+
+<br/>
+
+`#VLM` `#QLoRA` `#DocAI` `#MultimodalAI`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## ❯ Tech Stack
+
+<br/>
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,kotlin,go,c&theme=dark" />
+
+<br/><br/>
+
+**AI · ML · NLP**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-7B68EE?style=for-the-badge"/>
+
+<br/><br/>
+
+**Big Data · Streaming**
+
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+
+<br/><br/>
+
+**Web · Backend · Databases**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,postgresql,mongodb,firebase&theme=dark" />
+
+<br/><br/>
+
+**Tools · Cloud · Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,gcp,vscode,postman,androidstudio&theme=dark" />
+
+</div>
+
+<br/>
+
+---
+
+## ❯ Achievements
+
+<br/>
+
+<div align="center">
+
+| &nbsp; | Achievement | Detail |
+|:---:|:---|:---|
+| 🏅 | **National Hackathon Finalist** | Top 32 of 1,500+ competing teams |
+| 🌟 | **Special Mention Award** | 24-hour virtual hackathon · 1,200+ teams |
+| 📊 | **59th State Rank** | TGECET 2024 Entrance Examination |
+| 💻 | **500+ DSA Problems** | LeetCode · CodeChef · Coding Ninjas |
+| 🎖️ | **Achiever Badges** | Arrays · Sorting · Hashmaps · Binary Search |
+| 🎓 | **Diploma CGPA 9.64 / 10** | Government Polytechnic College, Nalgonda |
+
+</div>
+
+<br/>
+
+---
+
+## ❯ Certifications
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google_Cloud_Computing-NPTEL-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SQL_Intermediate-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d1117"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/API_Fundamentals-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/C++_Programming-CBIT_CDC-7B68EE?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117"/>
+
+</div>
+
+<br/>
+
+---
+
+## ❯ Coding Profiles
+
+<br/>
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Sanjay612-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/u/Sanjay612)
+&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-sanju126-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117)](https://www.codechef.com/users/sanju126)
+&nbsp;
+[![CodingNinjas](https://img.shields.io/badge/Coding_Ninjas-SanjayKumarD-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white&labelColor=0d1117)](https://www.naukri.com/code360/profile/SanjayKumarD)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a2e,30:0a1f4a,70:1a0a3e,100:0a0a1a&height=140&section=footer&text=Ship%20it.%20Learn%20from%20it.%20Build%20something%20harder.&fontSize=16&fontColor=8b8bcc&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
